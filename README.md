@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aestebangnivia23" alt="aestebangnivia23" /></a> </p>
 
-- 🔭 I’m currently working on [I’m currently working on a project analyzing the gastronomic market in Tampa, Florida, using data from Google Maps and Yelp. The project involves machine learning models, insights on user reviews, and an interactive Power BI dashboard.](https://ds-henry-recommender-system.streamlit.app)
+- 🔭 I’m currently working on a project analyzing the gastronomic market in Tampa, Florida, using data from Google Maps and Yelp. The project involves machine learning models, insights on user reviews, and an interactive Power BI dashboard.[LINK][(](https://ds-henry-recommender-system.streamlit.app/))
 
 - 👯 I’m looking to collaborate on **any kind of project related to data, including analysis, visualization, machine learning, or data engineering. Always excited to learn and create impactful solutions together!**
 
