@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aestebangnivia23](https://github.com/aestebangnivia23)
 
-- 💬 Ask me about **anything I am always happy to help**
+- 💬 Ask me about anything I am always happy to help
 
 - 📫 How to reach me **aestebangnivia23@gmail.com**
 
-- ⚡ Fun fact **I’m a big sports fan, especially when it comes to football (soccer). Whether playing or watching, it’s always been a passion of mine! ⚽**
+- ⚡ Fun fact I’m a big sports fan, especially when it comes to football (soccer). Whether playing or watching, it’s always been a passion of mine! ⚽
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
