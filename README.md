@@ -1,37 +1,40 @@
-<h1 align="center">Hi 👋, I'm Esteban Nivia</h1>
-<h3 align="center">A passionate data scientist from Colombia.</h3>
+<p align="center"><a href="https://aestebangnivia23.github.io"><img src="assets/banner.svg" alt="Esteban Gutiérrez Nivia · Datos, contenido y automatización" width="100%"></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aestebangnivia23&label=Profile%20views&color=0e75b6&style=flat" alt="aestebangnivia23" /> </p>
+## Hola, soy Esteban
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aestebangnivia23" alt="aestebangnivia23" /></a> </p>
+Analista de datos junior y creador de contenido en Bogotá, Colombia. Estudio séptimo semestre de Ingeniería de Sistemas en la UNAD y en 2024 hice el bootcamp de Data Science de Henry. Uso SQL, Python y Power BI para entender qué está pasando en los datos, y sé contarlo para que la gente lo entienda.
 
-- 🔭 I’m currently working on a project analyzing the gastronomic market in Tampa, Florida, using data from Google Maps and Yelp. The project involves machine learning models, insights on user reviews, and an interactive Power BI dashboard.[LINK](https://ds-henry-recommender-system.streamlit.app/)
+Estoy disponible para trabajar como **analista de datos, BI o marketing digital**, en remoto o híbrido.
 
-- 👯 I’m looking to collaborate on any kind of project related to **data, including analysis, visualization, machine learning, or data engineering**. Always excited to learn and create impactful solutions together!
+**[Mira mi portafolio →](https://aestebangnivia23.github.io)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aestebangnivia23](https://github.com/aestebangnivia23)
+## Proyectos destacados
 
-- 💬 Ask me about anything I am always happy to help
+| Proyecto | Qué hice | Herramientas |
+| --- | --- | --- |
+| [Recomendador de restaurantes en Tampa](https://github.com/nasae-nta/Google-Yelp) | Proyecto final de Henry en un equipo de 5: hice el dashboard completo en Power BI y apoyé los procesos ETL. | Power BI · Python · Google Cloud |
+| [Siniestros viales en Buenos Aires](https://github.com/aestebangnivia23/SINIESTROS-VIALES-HENRY-) | ETL y análisis exploratorio de víctimas de 2016 a 2021, 3 KPI y un dashboard de 6 páginas. | Python · pandas · Power BI |
+| [Recomendador de videojuegos de Steam](https://github.com/aestebangnivia23/Henry-Proyecto-1-steam) | Análisis de sentimiento de reseñas, modelo ítem a ítem con similitud de coseno y una API. | Python · NLTK · scikit-learn · FastAPI |
+| Motor de edición automática de Reels | Pipeline que transcribe con Whisper, alinea cada palabra con el audio y genera subtítulos y gráficos. | Python · Whisper · Remotion |
 
-- 📫 How to reach me **aestebangnivia23@gmail.com**
+## Herramientas
 
-- ⚡ Fun fact I’m a big sports fan, especially when it comes to football (soccer). Whether playing or watching, it’s always been a passion of mine! ⚽
+![SQL](https://img.shields.io/badge/SQL-17171A?style=flat-square&logo=postgresql&logoColor=F3EFE6)
+![Python](https://img.shields.io/badge/Python-17171A?style=flat-square&logo=python&logoColor=F3EFE6)
+![pandas](https://img.shields.io/badge/pandas-17171A?style=flat-square&logo=pandas&logoColor=F3EFE6)
+![Power BI](https://img.shields.io/badge/Power%20BI-17171A?style=flat-square&logo=powerbi&logoColor=F3EFE6)
+![Oracle](https://img.shields.io/badge/Oracle-17171A?style=flat-square&logo=oracle&logoColor=F3EFE6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-17171A?style=flat-square&logo=scikitlearn&logoColor=F3EFE6)
+![FastAPI](https://img.shields.io/badge/FastAPI-17171A?style=flat-square&logo=fastapi&logoColor=F3EFE6)
+![Git](https://img.shields.io/badge/Git-17171A?style=flat-square&logo=git&logoColor=F3EFE6)
+![Notion](https://img.shields.io/badge/Notion-17171A?style=flat-square&logo=notion&logoColor=F3EFE6)
 
+## Experiencia
 
+- **Cofundador · Two Agency** (2026 – hoy): contenido para marcas personales, embudos en ManyChat y CRM en Notion.
+- **Editor de video · Cortes Groove** (2025 – 2026): más de 100 piezas para clientes remotos.
+- **Consultor de datos en formación · Rollup Consulting** (2025): consultas SQL y ETL en Oracle para un cliente del sector seguros.
 
-## My Tech Stack
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Contacto
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aestebangnivia23&show_icons=true&locale=en&layout=compact" alt="aestebangnivia23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aestebangnivia23&show_icons=true&locale=en" alt="aestebangnivia23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aestebangnivia23&" alt="aestebangnivia23" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/esteban-gutierrez-nivia-9035a62b7/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-gutierrez-nivia-9035a62b7/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
-</p>
+[Portafolio](https://aestebangnivia23.github.io) · [LinkedIn](https://www.linkedin.com/in/estebanniv/) · [Instagram](https://www.instagram.com/estebanniv/) · aestebangnivia23@gmail.com
